@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/MAD-logo.png" width="220" alt="MAD Logo">
+  <img src="assets/MAD-logo.png" width="800" alt="MAD Logo">
 </p>
 
 <h1 align="center">MAD — MindFlayer’s Active Directory</h1>
@@ -33,7 +33,7 @@ Unlike infrastructure-as-code labs, MAD ships **preconfigured enterprise snapsho
 ### Active Directory Network Diagram
 
 <p align="center">
-  <img src="diagrams/MAD-Full.png" width="900" alt="MAD AD Network Diagram">
+  <img src="assets/MAD-Full.png" width="900" alt="MAD AD Network Diagram">
 </p>
 
 ### Domains / Forests
