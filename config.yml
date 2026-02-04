@@ -1,0 +1,3 @@
+install_adcs: true
+install_child_ad: true
+install_root_ad: true
